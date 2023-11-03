@@ -146,6 +146,7 @@ body {
     grid-template-columns: 1fr;
     align-items: center;  
     background: linear-gradient(to bottom, #84558d, black);
+    margin-top: 40px;
     /* background-color: rgb(159, 159, 189); */
 }
 .contact-grid h1,h3 {
@@ -243,7 +244,7 @@ a {
         justify-content: center;
     }
     .grid2 img {
-        width: 500px;
+        width: 300px;
         height: auto;
         margin: 10px 0px;
         padding: 10px;
